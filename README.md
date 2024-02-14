@@ -8,5 +8,7 @@
 
 [Levelsio的Make电子书：独立开发者手册](https://todaylab.com/make)
 
+## GPTs TOP50
+[Top 50 GPTs](http://app.myzaker.com/news/article.php?pk=656f49d68e9f0948727e395a)
 
 
