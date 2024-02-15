@@ -13,5 +13,9 @@
 
 [1000 GPTs体验报告](https://new.qq.com/rain/a/20240112A0062K00)
 
+## 引流
+[给GPTs超链接引流](https://zhuanlan.zhihu.com/p/668081819)
+
+
 
 
