@@ -16,6 +16,10 @@
 ## 引流
 [给GPTs超链接引流](https://zhuanlan.zhihu.com/p/668081819)
 
+[中国独立开发者项目列表]([https://zhuanlan.zhihu.com/p/668081819](https://github.com/1c7/chinese-independent-developer#%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8)https://github.com/1c7/chinese-independent-developer#%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8)
+
+
+[做独立开发者，你准备好了吗？](https://time.geekbang.org/column/article/259799)
 
 
 
